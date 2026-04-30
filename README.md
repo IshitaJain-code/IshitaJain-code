@@ -45,10 +45,10 @@ Today, I focus on applying my knowledge through practical projects, continuously
 
 Here are some of the things I’ve been working on:
 
-* 🔹 Machine Learning Projects
-* 🔹 Data Analysis Case Studies
-* 🔹 From-scratch implementations of ML algorithms
-* 🔹 Comparisons with Scikit-learn models
+🔹 Machine Learning Projects
+🔹 Data Analysis Case Studies
+🔹 From-scratch implementations of ML algorithms
+🔹 Comparisons with Scikit-learn models
 
 *(More projects are continuously being added as I learn and grow.)*
 
