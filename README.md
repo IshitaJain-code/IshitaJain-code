@@ -7,9 +7,7 @@ Data Analyst • Data Science
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&color=2E8BFF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Actionable+Insights;Python+•+SQL+•+Power+BI;Business+Intelligence+Dashboards"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&color=2E8BFF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Actionable+Insights;Python+%7C+SQL+%7C+Power+BI;Business+Intelligence+Dashboards" />
 </p>
 
 ## 👩‍💻 About Me
@@ -40,14 +38,6 @@ Learning happens best through building, so this GitHub serves as a collection of
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-
-## 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/IshitaJain-code/IshitaJain-code/output/github-contribution-grid-snake.svg">
-
-</p>
 
 ## 🌐 Connect
 
