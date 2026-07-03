@@ -1,84 +1,75 @@
-# 👋 Hi, I'm Ishita
+<h1 align="center">
+Hi! I'm Ishita Jain
+</h1>
 
-### AI/ML Enthusiast | CSE Student | Turning Data into Meaningful Insights
+<h3 align="center">
+Data Analyst • Data Science 
+</h3>
 
----
+<p align="center">
 
-## 🌱 My Story
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&color=2E8BFF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Actionable+Insights;Python+•+SQL+•+Power+BI;Business+Intelligence+Dashboards"/>
 
-I’ve always had a nag of curiosity about how things work behind the scenes—especially when it comes to technology and intelligence. That curiosity gradually turned into a strong interest in **Artificial Intelligence and Machine Learning**, where logic meets real-world impact.
+</p>
 
-What started as learning the basics of programming evolved into building projects that solve problems, analyze data, and uncover patterns. Along the way, I discovered that I enjoy not just writing code, but understanding *why* it works and *how* it can be improved.
+## 👩‍💻 About Me
 
-Today, I focus on applying my knowledge through practical projects, continuously learning, and growing as a developer who aims to build intelligent and meaningful solutions.
+Curious about the stories hidden within data and driven by the process of uncovering them. Enjoy solving analytical problems, exploring patterns, and transforming raw datasets into clear, data-driven solutions.
 
----
+Learning happens best through building, so this GitHub serves as a collection of projects, experiments, and ideas that reflect continuous growth in data analytics and data science. Every repository is an opportunity to apply new concepts, improve existing skills, and document the journey from data to insight.
 
-## 🚀 What I Do
 
-* 🤖 Build **Machine Learning models** from scratch and using libraries
-* 📊 Perform **Data Analysis & Visualization** using Python
-* 🧠 Learn and implement core ML concepts step-by-step
-* 💻 Strengthen problem-solving through coding and projects
+## 🛠 Tech Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-## 🛠️ Tech Stack
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**Languages & Tools:**
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib / Seaborn
-* Scikit-learn
 
-**Currently Exploring:**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 
-* Advanced Machine Learning
-* Model Optimization
-* Real-world ML applications
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
----
 
-## 📂 Featured Work
+## 🐍 Contribution Graph
 
-Here are some of the things I’ve been working on:
+<p align="center">
 
-🔹 Machine Learning Projects
-🔹 Data Analysis Case Studies
-🔹 From-scratch implementations of ML algorithms
-🔹 Comparisons with Scikit-learn models
+<img src="https://raw.githubusercontent.com/IshitaJain-code/IshitaJain-code/output/github-contribution-grid-snake.svg">
 
-*(More projects are continuously being added as I learn and grow.)*
+</p>
 
----
+## 🌐 Connect
 
-## 📈 My Learning Approach
+<p align="center">
 
-I believe in learning by doing. My approach usually follows:
+<a href="https://linkedin.com/in/ishita-jain-5a178a3b0?">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-1. Understanding the **theory behind a concept**
-2. Implementing it **from scratch**
-3. Comparing it with **standard libraries**
-4. Visualizing results to gain deeper insights
+<a href="https://www.kaggle.com/ishitajain019">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
 
----
+<a href="https://github.com/IshitaJain-code">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-## 🎯 Goals
+<a href="mailto:ishitajain.1905@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-* Build impactful AI/ML projects
-* Gain hands-on experience through real-world problems
-* Secure an internship in **AI/ML or Data Science**
-* Continuously improve problem-solving and development skills
+</p>
 
----
 
-## 🤝 Let’s Connect
 
-* 💼 LinkedIn:https://www.linkedin.com/in/ishita-jain-5a178a3b0?
-* 📧 Email: ishitajain.1905@gmail.com
-
----
-
-⭐ *This repository is a reflection of my journey—learning, building, and improving every day.*
